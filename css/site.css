@@ -13,7 +13,7 @@ body body { background-image: url(../img/furley_bg.png); }
 }
 
 #primary {
-
+  
   background-color: #4881FF;
 	background-image: linear-gradient(left bottom, rgb(93,7,117) 11%, rgb(8,0,13) 52%, rgb(0,0,0) 79%);
 	background-image: -o-linear-gradient(left bottom, rgb(93,7,117) 11%, rgb(8,0,13) 52%, rgb(0,0,0) 79%);
